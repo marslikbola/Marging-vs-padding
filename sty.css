@@ -1,0 +1,25 @@
+body{
+    background-color: #2A5D5A;
+
+}
+h1{
+    background: #311313;
+    color: white;
+    font-size: 50px;
+    width: 500px;
+    text-align: center;
+    margin: 20px auto;
+}
+.qora{
+    width: 1000px;
+    border: 5px solid red;
+    background-color: black;
+    padding: 45px;
+    margin: 50px auto;
+}
+p{
+    padding: 54px;
+    background: #1FE8B7;
+    font-size: 18px;
+    font-weight: 700;
+}
